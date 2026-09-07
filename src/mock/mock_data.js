@@ -47,6 +47,12 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        {
+          "id": "搬瓦工东京面板",
+          "name": "搬瓦工面板",
+          "url": "https://bwgdj.11061106.xyz/admin-panel/",
+          "description": "东京节点",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
