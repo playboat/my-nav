@@ -52,7 +52,7 @@ export const mockData = {
           "name": "搬瓦工面板",
           "url": "https://bwgdj.11061106.xyz/admin-panel/",
           "description": "东京节点",
-          "icon": "/sitelogo/github.com.ico"
+          "icon": "icon: "https://bwh81.net/favicon.ico"
         }
       ]
     },
