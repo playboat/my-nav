@@ -40,20 +40,6 @@ export const mockData = {
           "url": "https://linux.do",
           "description": "Linux技术社区，Peace and Love",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
